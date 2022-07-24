@@ -1,11 +1,11 @@
 ## Topics covered
 
 - Introduction
-- Printing to the console
-- String manipulation
-- Input function
+- Printing to the Console
+- String Manipulation
+- Input Function
 - Variables
-- Variable naming
+- Variable Naming
 
 ## Project
 
