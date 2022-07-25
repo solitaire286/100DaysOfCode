@@ -1,16 +1,19 @@
 ## Topics covered
 
-- Primitive Data Types
-- Type Error, Type Checking and Type Conversion
-- Mathematical Operations
-- Number Manipulation and f-Strings
+- Control Flow with if / else and Conditional Operators
+- Nested if statements and elif statements
+- Multiple If Statements in Succession
+- Logical Operators
 
 ## Notes
 
-## Project
+## Exercise / Project
 
-- BMI Calculator
-- Life in Weeks
-- Tip Calculator
+- Odd or Even: Introducing the Modulo
+- BMI 2.0
+- Leap Year
+- Pizza Order Practice
+- Love Calculator
+- Treasure Island
 
 ## Thoughts
