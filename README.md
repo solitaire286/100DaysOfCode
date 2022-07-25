@@ -21,3 +21,9 @@ Ex. BMI Calculator, Life in Weeks, Tip Calculator.
 Getting into the habit of writing clean, concise code while commenting on steps.
 
 Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%202/Log-2.md)
+
+## Day 3 - 07/25/2022
+
+Update
+
+Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%201/Log-1.md)
