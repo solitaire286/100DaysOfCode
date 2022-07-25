@@ -45,4 +45,4 @@ E.g. print(f"You are {weight} kilos and {height}m tall. You play football is {Tr
 
 ## Thoughts
 
-BMI Calculator exercise was fun. Actually got to utilize most of the concepts we covered so far. (Variables, Type Checking, Type Conversion, Math Operations)
+The exercises were fun. Had to utilize most of the concepts we covered so far. (Variables, Type Checking, Type Conversion, Math Operations)
