@@ -26,4 +26,4 @@ Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%202
 
 Update
 
-Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%201/Log-1.md)
+Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%203/Log-3.md)
