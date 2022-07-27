@@ -21,7 +21,7 @@ Conditional Statements, Comparison Operators, Modulo, Logical Operators, Code Bl
 - Odd or Even
 - BMI Calculator 2.0
 - Leap Year
-- Pizza Order Practice
+- Pizza Order
 - Love Calculator
 - Treasure Island
 
