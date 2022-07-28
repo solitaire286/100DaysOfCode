@@ -5,14 +5,6 @@
 - Multiple If Statements in Succession
 - Logical Operators
 
-Tweet:
-
-Conditions, Comparison, Case Conversion, Modulo, Logical Opr., Code Blocks, Indentation, Nesting, Etc.
-
-Ex. Odd or Even, BMI Calculator 2.0, Leap Year, Pizza Order, Love Calculator, Treasure Island
-
-Technically 6/100 as I've been learning + coding for 5-6 hrs daily. Posting the completion of each day from the course to maintain continuity. Through long work shifts, daily 3+ hour power cuts, managed to complete day 3 w/o skipping any exercises. Practiced until I really understood nesting and how code blocks execute.
-
 ## Notes
 
 - Comparison Operators: > Greater than, < Lesser than, >= Greater than or equal to, <= Less than or equal to, == Equal to, != Not equal to
