@@ -5,7 +5,13 @@
 - Multiple If Statements in Succession
 - Logical Operators
 
-Conditional Statements, Comparison Operators, Modulo, Logical Operators, Code Blocks and Scope
+Tweet:
+
+Conditions, Comparison, Case Conversion, Modulo, Logical Opr., Code Blocks, Indentation, Nesting, Etc.
+
+Ex. Odd or Even, BMI Calculator 2.0, Leap Year, Pizza Order, Love Calculator, Treasure Island
+
+Technically 6/100 as I've been learning + coding for 5-6 hrs daily. Posting the completion of each day from the course to maintain continuity. Through long work shifts, daily 3+ hour power cuts, managed to complete day 3 w/o skipping any exercises. Practiced until I really understood nesting and how code blocks execute.
 
 ## Notes
 
@@ -31,7 +37,7 @@ Conditional Statements, Comparison Operators, Modulo, Logical Operators, Code Bl
 
 ## Thoughts
 
-A bit disappointed it took me almost 3 days to complete day 3. Another work week and the daily 3+ hour power outages aren't making things easier either, but I still managed to get in a few blocks of time here 'n there to complete the exercises and project.
+A bit disappointed it took me almost 4 days to complete day 3 of the course. Another work week and the daily 3+ hour power outages aren't making things easier either, but I still managed to get in a few blocks of time here 'n there to complete the exercises and project.
 
 The leap year exercise is what I took most time on. Not necessarily in coding it, but I wanted to understand 'why' I was using these equations as conditionals to get the final result. This meant some googling and going through the theory behind calculating leap years.
 
