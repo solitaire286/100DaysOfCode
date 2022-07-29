@@ -34,7 +34,7 @@ Through long work shifts, daily 3+ hour power cuts, managed to complete day 3 w/
 
 Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%203/Log-3.md)
 
-## Day 4 > 07/29/2022
+## Day 4 : 07/29/2022
 
 Update
 
