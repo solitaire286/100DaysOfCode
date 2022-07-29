@@ -33,3 +33,9 @@ Technically day 6/100 as I've been learning + coding for 5-6 hrs daily. Posting 
 Through long work shifts, daily 3+ hour power cuts, managed to complete day 3 w/o skipping any exercises. 💪
 
 Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%203/Log-3.md)
+
+## Day 4 > 07/29/2022
+
+Update
+
+Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%204/Log-4.md)
