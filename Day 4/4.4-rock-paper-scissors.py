@@ -40,7 +40,7 @@ elif user_choice == 2:
 else:
   print("Please input a valid number.")
 
-# Get computer to randomly select number between 0-2.
+# Get computer to randomly pick a number between 0-2.
 cpu_choice = random.randint(0, 2)
 
 # Display computer choice graphic.
