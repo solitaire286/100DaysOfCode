@@ -40,7 +40,7 @@ elif user_choice == 2:
 else:
   print("Please input a valid number.")
 
-# Get computer to randomly select number between 0-1.
+# Get computer to randomly select number between 0-2.
 cpu_choice = random.randint(0, 2)
 
 # Display computer choice graphic.
@@ -51,18 +51,21 @@ elif cpu_choice == 1:
 elif cpu_choice == 2:
   print(f"Computer chose:\n{scissors}")
 
+# Define rules for "Draw".
+if cpu_choice == user_choice:
+  print("It's a draw!")
 
+# Define rules for "Win/Lose".
+elif user_choice == 0 and cpu_choice == 1:
+  print("Paper covers rock. You lose!")
+elif user_choice == 1 and cpu_choice == 2:
+  print("Scissors cut paper. You lose!")
+elif user_choice == 2 and cpu_choice == 0:
+  print("Rock breaks scissors. You lose!")
 
-
-
-
-
-
-# Convert 0,1,2 to use corresponding varialbles.
-# Computer should randomly select between range 0-2.
-# Print computer choice. "Computer chose:"
-# Write conditionals for the following;
-# If both user and computer pick same option, result = draw.
-# If user = 0 (rock), computer = 1 (paper), result = computer wins (paper > rock)
-# If user = 1 (paper), computer = 2 (scissors), result = computer wins (scissors > paper)
-# If user = 2 (scissors), computer = 0 (rock), result = computer wins (rock > scissors)
+elif cpu_choice == 0 and user_choice == 1:
+  print("Paper covers rock. You win!")
+elif cpu_choice == 1 and user_choice == 2:
+  print("Scissors cut paper. You win!")
+elif cpu_choice == 2 and user_choice == 0:
+  print("Rock breaks scissors. You win!")
