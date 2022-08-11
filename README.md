@@ -34,8 +34,18 @@ Through long work shifts, daily 3+ hour power cuts, managed to complete day 3 w/
 
 Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%203/Log-3.md)
 
-## Day 4: 07/29/2022
+## Day 4: 07/29/2022 - 08/11/2022
+
+Life + work took over, fell off for a bit. Picking up where I left off, back at it again. 💪
+
+Random Module, List Manipulation, Nested Lists and Index Errors
+
+Ex. Heads or Tails, Banker Roulette: Who will pay the bill?, Treasure Map, Rock Paper Scissors
+
+Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%204/Log-4.md)
+
+## Day 5: 08/12/2022
 
 Update
 
-Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%204/Log-4.md)
+Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%205/Log-5.md)
