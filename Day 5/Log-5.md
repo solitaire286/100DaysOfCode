@@ -11,6 +11,7 @@ For Loops, Range and Code Blocks
 - 'for' loops iterate over a given sequence. (Note: Its good practice when writing 'for' loops to use the singular form of the list name it's referring to. e.g. brands => brand)
 - 'while' loops repeat as long as a certain boolean condition is met.
 - 'sum()' function returns a number, the sum of all items in an iterable. e.g. count = (1, 2, 3, 4, 5) => sum(count) => 15
+- 'min(), max()' function returns the lowest and highest...
 
 ## Exercise & Project
 
@@ -29,3 +30,7 @@ I guess I overcompicated it for myself by overthinking it, but I really apprecia
 I believe this process of breaking things down and finding simple solutions for complicated problems will become easier as I write more code.
 
 For now, I'm learning to read 'for' loops as: For 'this element' in 'this list', do 'this'. (This will repeat for the number of elements in the list.)
+
+Something Angela said about understanding the logic behind a function really stuck with me. Python has a lot of convenient functions which make math operations easier, but if you move to a different language and work on something else, then these might not exist.
+
+"Understanding the underlying logic and being able to write out the code using things that every programming language has like the for loop will mean that you will become a much, much better programmer in the process."
