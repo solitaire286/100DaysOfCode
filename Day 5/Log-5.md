@@ -3,8 +3,6 @@
 - Using the for loop with Python Lists
 - for loops and the range() function
 
-For Loops with Lists, Range, Conditions and Code Blocks
-
 ## Notes
 
 - Loops allow us to execute the same line of code multiple times. [here](https://www.learnpython.org/en/Loops)
@@ -12,7 +10,6 @@ For Loops with Lists, Range, Conditions and Code Blocks
 - **for** loops can iterate over a sequence of numbers using the **range()** function. e.g. for x in range(1, 10): => _Loops 9 times_
 - **sum()** function returns a number, the sum of all items in an iterable. e.g. count = (1, 2, 3, 4, 5) => sum(count) => 15
 - **min(), max()** function returns the smallest and largest values in an iterable or in a series of regular arguments. [here](https://realpython.com/python-min-and-max/)
-- **while** loops repeat as long as a certain boolean condition is met.
 
 ## Exercise & Project
 
