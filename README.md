@@ -44,8 +44,16 @@ Ex. Heads or Tails, Banker Roulette: Who will pay the bill?, Treasure Map, Rock 
 
 Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%204/Log-4.md)
 
-## Day 5: 08/12/2022
+## Day 5: 08/12/2022 - 08/15/2022
+
+Using For Loop with Lists, Range, Conditions and Code Blocks
+
+Ex. Average Height, High Score, Adding Even Numbers, FizzBuzz, Password Generator
+
+Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%205/Log-5.md)
+
+## Day 6: 08/16/2022
 
 Update
 
-Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%205/Log-5.md)
+Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%206/Log-6.md)
