@@ -25,3 +25,40 @@ seq_password = ''.join(map(str, rnd_letters + rnd_symbols + rnd_numbers))
 rnd_password = ''.join(random.sample(seq_password, len(seq_password)))
 
 print(f"Your password is: {rnd_password}")
+
+# # Alternate solution 1 (Eazy/Sequential)
+# password = ""
+
+# for char in range(1, nr_letters + 1):
+#   password += random.choice(letters)
+
+# for char in range(1, nr_symbols + 1):
+#   password += random.choice(symbols)
+
+# for char in range(1, nr_numbers + 1):
+#   password += random.choice(numbers)
+
+# print(f"Your password is: {password}")
+
+# # Alternate solution 2 (Hard/Randomized)
+# password_list = []
+
+# for char in range(1, nr_letters + 1):
+#   password_list.append(random.choice(letters))
+
+# for char in range(1, nr_symbols + 1):
+#   password_list.append(random.choice(symbols))
+
+# for char in range(1, nr_numbers + 1):
+#   password_list.append(random.choice(numbers))
+
+# random.shuffle(password_list)
+
+# # password = ""
+
+# # for char in password_list:
+# #   password += char
+
+# # print(f"Your password is: {password}")
+
+# print(f"Your password is: {''.join(password_list)}")
