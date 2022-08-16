@@ -6,8 +6,7 @@
 ## Notes
 
 - Loops allow us to execute the same line of code multiple times. [here](https://www.learnpython.org/en/Loops)
-- **for** loops iterate over a given sequence.
-  > Note: Its good practice when writing loops to use the singular form of the list name it's referring to. E.g. brands = brand
+- **for** loops iterate over a given sequence. _(Note: Its good practice when writing loops to use the singular form of the list name it's referring to. E.g. brands = brand)_
 - **for** loops can iterate over a sequence of numbers using the **range()** function.
 
 ```
@@ -50,7 +49,7 @@ I believe this process of breaking things down and finding simple solutions for 
 
 For now, I'm learning to read **for** loops as:
 
-> For 'this element' in 'this list', run 'this block of code'. _(Number of times looped = number of elements in the list or a given range.)_
+> For _**this element**_ in _**this list**_, run _**this block of code**_. _(Number of times looped = number of elements in the list or a given range.)_
 
 Something Angela said about understanding the logic behind a function really stuck with me.
 
@@ -64,6 +63,6 @@ Alternatively, I still followed along with Angela's solution using **for** loops
 
 It's always good to learn more than just one way of doing something, and also to understand how to get a similar result if a certain function/method is not available, especially when working in another language.
 
-It was a good experience, and I look forward to understanding these concepts further with more practice.
+It was a good experience, and I look forward to understanding these concepts better with more practice.
 
 **Day 5 == Done!**
