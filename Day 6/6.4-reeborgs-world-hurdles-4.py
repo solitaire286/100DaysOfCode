@@ -21,7 +21,6 @@ while not at_goal():
     move_and_jump()
 
 # Angela's Solution
-
 # def jump():
 #     turn_left()
 #     while wall_on_right():
