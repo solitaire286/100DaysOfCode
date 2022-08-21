@@ -52,8 +52,16 @@ Ex. Average Height, High Score, Adding Even Numbers, FizzBuzz, Password Generato
 
 Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%205/Log-5.md)
 
-## Day 6: 08/16/2022
+## Day 6: 08/16/2022 - 08/20/2022
+
+Defining and Calling Python Functions, While Loops, Code Blocks and Indentation
+
+Ex. Reeborg's world _(Karel)_: Hurdles 1-4, Maze Challenge
+
+Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%206/Log-6.md)
+
+## Day 7: 08/21/2022
 
 Update
 
-Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%206/Log-6.md)
+Read More [here](https://github.com/solitaire286/100DaysOfCode/blob/main/Day%207/Log-7.md)
