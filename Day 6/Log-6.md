@@ -39,18 +39,6 @@ while not count > 5:
     count += 1
 ```
 
--
--
-
-## Exercise & Project
-
-- The Hurdles Loop Challenge
-- Hurdles Challenge using While Loops
-- Jumping over Hurdles with Variable Heights
-- Escaping the Maze
-
-## Thoughts
-
 **When to use a for loop? And when to use a while loop?**
 
 > Use for loops when you want to iterate over something, and you need to do something with each item that you are iterating over.
@@ -68,3 +56,32 @@ while not count > 5:
 > But for while loops, they will continue running until a particular condition switches to false. So if you have some sort of condition that actually never becomes false, well then your while loop becomes something known as an infinite loop.
 >
 > Often times it's really helpful when you don't know why you're getting an infinite loop to simply just print out your condition.
+
+## Exercise & Project
+
+- The Hurdles Loop Challenge
+- Hurdles Challenge using While Loops
+- Jumping over Hurdles with Variable Heights
+- Escaping the Maze
+
+## Thoughts
+
+It has been challenging to maintain a proper cadence in completing a single day of the course without stretching it over multiple days.
+
+With a full 9-hour work shift, 3-4 hours of scheduled power outages daily during my waking hours means very little time to actually complete all the topics, exercises, and project in a day. And pulling from the 4-5 hours of sleep means my productivity, health, and concentration take a hit.
+
+Even Angela mentioned it might take more than a day to complete a single day's module, which is expected. But having it take up to 2-3 days due to external factors is frustrating. 😔
+
+Still, I'm sure in the grand scheme of things, this will be worth it. Taking the time to get the basics right without rushing through them for the sake of completing a "Day". Putting more effort into writing more code and notes so I can understand these concepts better will definitely improve my knowledge and efficiency in the future.
+
+Using Reeborg's world _(Karel)_ is a fun way to practice, understand and visualize things when getting started with defining basic functions, using while loops and conditionals to test and iterate the code when the program is run.
+
+The initial 4 challenges of the day were quite straightforward, but the final maze challenge is where I struggled most. Spent a good 4-5 hours trying to get it to pass on each scenario but alas, I realized I was spending too much time on this one problem, when at this point of the learning process its best to move on and return to it once I have more experience and knowledge.
+
+Oddly enough, when I watched Angela's solution even she couldn't get the challenge to pass on every scenario and said this is a problem you should revisit once you're at a more intermediate level. It was relieving to hear that and I will definitely come back and solve this in the future.
+
+As usual, I ended up overthinking and overcomplicating things for myself while Angela's code was very simple and straightforward.
+
+This is definitely something I need to work on. Being able to break down problems and write code in the simplest way possible. After all, not all problems require the most complicated solutions.
+
+**Day 6 == Done!**
